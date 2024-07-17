@@ -785,6 +785,11 @@ header .navbar ul li a:hover {
 /* work section ends */
 
 /* experience section starts */
+.experience .timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 .experience .heading{
   margin-bottom: 15px;
   color:#002057;
