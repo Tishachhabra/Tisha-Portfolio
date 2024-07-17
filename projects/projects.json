@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Real-time Language Translation",
+    "desc": "AI-driven web app for real-time language translation and transcription, fine-tuned for Indic languages. <br> Built using Twilio SDK, Websockets, Flask etc.",
+    "image": "iVaani.png",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "CCTV software for crime prevention",
+    "desc": "Real-time weapon detection and crowd management system using YOLOv8 with integrated website for record access.<br>Built using Flask, SQLite and Machine Learning.",
+    "image": "cctv.webp",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Fine-tuned Whisper AI",
+    "desc": "Customized Whisper AI model optimized for Indian regional languages. Delivers accurate audio transcription for diverse Indian dialects and accents.",
+    "image": "whisper.jpg",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Explainable CNN models",
+    "desc": "CNN models integrated with Explainable algorithms- LIME, SHAP and ProtoDash. <br> Built using Tensorflow framework and ai360 library.",
+    "image": "exp.jpg",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Library Management System",
+    "desc": "Java-based desktop application with Swing & AWT GUI. <br> Built using JDBC and MySQL database.",
+    "image": "lib.jpg",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
