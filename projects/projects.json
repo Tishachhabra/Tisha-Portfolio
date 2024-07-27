@@ -43,5 +43,14 @@
       "view": "",
       "code": ""
     }
+  },
+  {
+    "name": "Portfolio website",
+    "desc": "A glimpse into my skills and work, Just scroll down—everything you need to know is right here!",
+    "image": "Home.png",
+    "links": {
+      "view": "",
+      "code": ""
+    }
   }
 ]
