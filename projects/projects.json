@@ -1,6 +1,6 @@
 [
   {
-    "name": "Real-time Language Translation",
+    "name": "Real-time Language Tralation",
     "desc": "AI-driven web app for real-time language translation and transcription, fine-tuned for Indic languages. <br> Built using Twilio SDK, Websockets, Flask etc.",
     "image": "iVaani.png",
     "links": {
