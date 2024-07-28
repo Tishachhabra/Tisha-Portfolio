@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Tisha Chhabra";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "assets/images/logo.png");
         }
         else {
             document.title = "See Tisha's Portfolio";
@@ -70,7 +70,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Java Development", "Backend development", "Python Programming", "Artificial Intelligence"],
+    strings: ["Java Development", "Python Programming", "Artificial Intelligence", "Backend development"],
     loop: true,
     typeSpeed: 55,
     backSpeed: 30,
@@ -108,7 +108,7 @@ function showProjects(projects) {
     projects.forEach(project => {
         projectHTML += `
         <div class="box tilt">
-            <img src="/assets/images/projects/${project.image}" alt="project" />
+            <img src="/assets/images/projects/${project.image}" alt="project";" />
             <div class="content">
                 <div class="tag">
                     <h3>${project.name}</h3>

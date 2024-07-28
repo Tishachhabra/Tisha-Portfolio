@@ -1,7 +1,7 @@
 [
   {
-    "name": "Real-time Language Tralation",
-    "desc": "AI-driven web app for real-time language translation and transcription, fine-tuned for Indic languages. <br> Built using Twilio SDK, Websockets, Flask etc.",
+    "name": "Real-time Language Translation",
+    "desc": "AI-driven web app for real-time language translation and transcription, fine-tuned for Indic languages. <br> Built using Twilio SDK, Websockets, Flask, Whisper AI etc.",
     "image": "iVaani.png",
     "links": {
       "view": "",
@@ -12,15 +12,6 @@
     "name": "CCTV software for crime prevention",
     "desc": "Real-time weapon detection and crowd management system using YOLOv8 with integrated website for record access.<br>Built using Flask, SQLite and Machine Learning.",
     "image": "cctv.webp",
-    "links": {
-      "view": "",
-      "code": ""
-    }
-  },
-  {
-    "name": "Fine-tuned Whisper AI",
-    "desc": "Customized Whisper AI model optimized for Indian regional languages. Delivers accurate audio transcription for diverse Indian dialects and accents.",
-    "image": "whisper.jpg",
     "links": {
       "view": "",
       "code": ""
@@ -48,6 +39,15 @@
     "name": "Portfolio website",
     "desc": "A glimpse into my skills and work, Just scroll down—everything you need to know is right here!",
     "image": "Home.png",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Tishachhabra/Tisha-Portfolio"
+    }
+  },
+  {
+    "name": "Web Dev Projects",
+    "desc": "A collection of my web development projects built using HTML, CSS, Bootstrap and JavaScript",
+    "image": "webdev.png",
     "links": {
       "view": "",
       "code": "https://github.com/Tishachhabra/Tisha-Portfolio"
